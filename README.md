@@ -187,8 +187,8 @@ For major changes, please open an issue first to discuss your ideas.
 
 ## 📩 Contact
 
-For questions or collaborations, reach out via: 📧 Email: [your-email@example.com](mailto\:assadihamiid@gmail.com)\
-🌍 GitHub: [Your GitHub Profile](https://github.com/tekuper/garbage_monitoring_system)
+For questions or collaborations, reach out via: 📧 Email: [Mail](mailto\:assadihamiid@gmail.com)\
+🌍 GitHub: [ GitHub ](https://github.com/tekuper/garbage_monitoring_system)
 
 ---
 
