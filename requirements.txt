@@ -1,0 +1,12 @@
+# this file contains  all the libraries and packages , used throughout the project 
+# in order to install them run "pip install requirements.txt"
+request 
+pandas
+json
+shutil 
+cv2
+matplotlib.pyplot
+PIL
+sklearn.model_selection
+ultralytics 
+dotenv
