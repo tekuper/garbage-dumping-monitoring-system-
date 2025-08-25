@@ -1,6 +1,6 @@
-# 🚀 Garbage Monitoring System - YOLOv8 Fine-tuning & Evaluation
+#  Garbage Monitoring System - YOLOv8 Fine-tuning & Evaluation
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on **fine-tuning and evaluating the YOLOv8 object detection model** for a **Garbage Monitoring System**. The model detects objects such as people, litter, garbage, and trash in images and videos, assisting in waste management and environmental monitoring.
 
@@ -32,7 +32,7 @@ This project focuses on **fine-tuning and evaluating the YOLOv8 object detection
 
 ---
 
-## 🛠 Installation
+##  Installation
 
 To run this project, you need to set up a Python environment and install dependencies.
 
@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 How to Use the Model
+##  How to Use the Model
 
 ### **1️⃣ Load the Trained Model**
 
@@ -112,7 +112,7 @@ plt.show()
 
 ---
 
-## 📄 How to Use the Project
+##  How to Use the Project
 
 ### **1️⃣ Running the Full Pipeline**
 
@@ -138,7 +138,7 @@ model.train(data="data.yaml", epochs=50, imgsz=640)
 
 ---
 
-## 📥 How to Load Files
+##  How to Load Files
 
 You can load images and datasets into the project by placing them in the **appropriate directories**:
 
@@ -157,7 +157,7 @@ img.show()
 
 ---
 
-## 🛠 Troubleshooting
+##  Troubleshooting
 
 If you encounter issues like missing DLLs or package errors:
 
@@ -177,7 +177,7 @@ If you encounter issues like missing DLLs or package errors:
 ---
 
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to fork the repository, create a branch, and submit a pull request.
 
@@ -185,10 +185,10 @@ For major changes, please open an issue first to discuss your ideas.
 
 ---
 
-## 📩 Contact
+##  Contact
 
 For questions or collaborations, reach out via: 📧 Email: [Mail](mailto\:assadihamiid@gmail.com)\
-🌍 GitHub: [ GitHub ](https://github.com/tekuper/garbage_monitoring_system)
+ GitHub: [ GitHub ](https://github.com/tekuper/garbage_monitoring_system)
 
 ---
 
